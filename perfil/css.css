@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    
+}
+.img {
+    background-image: url(restaurant.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+    height: 50vh;
+    width: 100%;
+}
+.escurinho {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.363);
+
+}
+
+
+.entregue {
+    background-color: #28a745;
+    text-align: center;
+}
+.pend {
+    background-color: #007bff;
+    text-align: center;
+}
+.cancel {
+    background-color: #E82431;
+    text-align: center;
+}
+
+.top th{
+    background-color:  #DEE2E6;
+    padding: 10px 30px;
+    text-align: left;
+}
+td {
+    padding: 10px 30px 10px 30px;
+    text-align: left;
+    border-bottom: 2px solid #DEE2E6;
+}
+
+.data {
+    padding-left: 30px;
+}
+
+.cont {
+    height: 100vh;
+}
+
+.gray {
+    background-color:  #DEE2E6;
+}
+.bord {
+    border-radius: 15px;
+    color: white;
+}
+
+.whi {
+    color: white;
+    font-size: 1.5em;
+    padding-left: 5em;
+    margin-top: 2em;
+    display: inline;
+}
+.Perf {
+    color: white;
+    font-size: 4em;
+    padding-top: 1.7em;
+    padding-left: 1.8em;
+}
+.labels {
+    padding-right: 10em;
+    color: #7A7A7A;
+	padding-bottom: 0.65em;
+}
+.input {
+	border: #CED4DA solid;
+	border-width: 1px;
+	border-radius: 5px;
+	width: 43%;
+	height: 2em;
+	margin-bottom: 0.65em;
+}
+.inputs {
+	width: 100%;
+	color: #7A7A7A;
+}
+.ger {
+    color: white;
+    font-size: 1.5em;
+    padding-left: 5em;
+}
+.top-right {
+    color: white;
+    font-size: 0.8em;
+    padding-left: 73em;
+    padding-top: 1em;
+    right: 0;
+}
+.top-r {
+    padding-left: 2em;
+}
+.footer {
+    position: fixed;
+    font-size: 1em;
+    left: 0;
+    bottom: 0;
+    height: 2em;
+    width: 100%;
+    background-color: #DEE2E6;
+    color: #7A7A7A;
+    text-align: left;
+}
+.fotd {
+    padding-left: 7em;
+    font-weight: bold;
+}
+.develop {
+    font-weight: bold;
+    padding-left: 35em;
+}
+.complete {
+    padding-left: 7em;
+}
+.email {
+    padding-top: 2em;
+    padding-left: 21.5em;
+}
+.input.right {
+    margin-left: 0.3em;
+}
+.bot {
+    width: 30%;
+    margin-top: 1em;
+    margin-left: 7em;
+}
